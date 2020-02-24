@@ -24,3 +24,9 @@
 	padjffs2
 	unsquashfs4
 来自：http://www.xiangtaole.com/jingyan/3065
+
+http://mirror.math.princeton.edu/pub/lede/releases/18.06.7/targets/ramips/
+https://downloads.openwrt.org/releases/18.06.7/targets/ramips/
+
+https://github.com/coolsnowwolf/lede/tree/master/package/lean/ipv6-helper
+
