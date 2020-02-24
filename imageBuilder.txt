@@ -13,7 +13,8 @@ http://downloads.openwrt.org/snapshots/trunk/ar71xx/OpenWrt-ImageBuilder-ar71xx_
 
 复制这个链接地址，打开你的Linux系统（如Ubuntu），将文件下载至磁盘上，并解压，或者使用终端命令：
 
-cd ~
+
+	cd ~
 wget http://downloads.openwrt.org/snapshots/trunk/ar71xx/OpenWrt-ImageBuilder-ar71xx_generic-for-linux-x86_64.tar.bz2
 tar -xvjf OpenWrt-ImageBuilder-ar71xx_generic-for-linux-x86_64.tar.bz2
 cd OpenWrt-ImageBuilder-ar71xx_generic-for-linux-x86_64/
