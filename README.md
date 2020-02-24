@@ -30,3 +30,5 @@ https://downloads.openwrt.org/releases/18.06.7/targets/ramips/
 
 https://github.com/coolsnowwolf/lede/tree/master/package/lean/ipv6-helper
 
+https://git.shield.asia/lev/lean-openwrt/tree/98cfbfc5fc624104bddce19503bc659131ba4143/package/lean
+
