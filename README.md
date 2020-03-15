@@ -32,3 +32,12 @@ https://github.com/coolsnowwolf/lede/tree/master/package/lean/ipv6-helper
 
 https://git.shield.asia/lev/lean-openwrt/tree/98cfbfc5fc624104bddce19503bc659131ba4143/package/lean
 
+Openwrt默认不开启wifi，要开启的话， 修改这个文件：
+
+openwrt/trunk/package/kernel/mac80211/files/lib/wifi/mac80211.sh.
+
+滚到文件最后， 注释掉 
+
+# REMOVE THIS LINE TO ENABLE WIFI:
+
+#option disabled 1
