@@ -41,3 +41,7 @@ openwrt/trunk/package/kernel/mac80211/files/lib/wifi/mac80211.sh.
 # REMOVE THIS LINE TO ENABLE WIFI:
 
 #option disabled 1
+
+
+
+ make V=99 CONFIG_ALL=y IGNORE_ERRORS=m -j2
